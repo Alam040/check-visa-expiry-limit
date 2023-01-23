@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/check-visa-expiry-limit/static/css/main.24916a26.css",
-    "main.js": "/check-visa-expiry-limit/static/js/main.a29e4943.js",
+    "main.css": "/check-visa-expiry-limit/static/css/main.20fbb441.css",
+    "main.js": "/check-visa-expiry-limit/static/js/main.7a3f2e4a.js",
     "static/js/883.5d61e01a.chunk.js": "/check-visa-expiry-limit/static/js/883.5d61e01a.chunk.js",
     "static/css/423.8547a3d3.chunk.css": "/check-visa-expiry-limit/static/css/423.8547a3d3.chunk.css",
     "static/js/423.27e0185c.chunk.js": "/check-visa-expiry-limit/static/js/423.27e0185c.chunk.js",
     "static/js/609.4d572835.chunk.js": "/check-visa-expiry-limit/static/js/609.4d572835.chunk.js",
     "static/js/407.227be215.chunk.js": "/check-visa-expiry-limit/static/js/407.227be215.chunk.js",
     "static/js/83.487eb5a6.chunk.js": "/check-visa-expiry-limit/static/js/83.487eb5a6.chunk.js",
-    "static/js/550.17de9cf1.chunk.js": "/check-visa-expiry-limit/static/js/550.17de9cf1.chunk.js",
+    "static/js/550.3910ab57.chunk.js": "/check-visa-expiry-limit/static/js/550.3910ab57.chunk.js",
     "static/js/24.d41543f5.chunk.js": "/check-visa-expiry-limit/static/js/24.d41543f5.chunk.js",
     "static/js/496.02cab9e7.chunk.js": "/check-visa-expiry-limit/static/js/496.02cab9e7.chunk.js",
     "static/js/479.a9b203f3.chunk.js": "/check-visa-expiry-limit/static/js/479.a9b203f3.chunk.js",
@@ -26,15 +26,15 @@
     "static/media/warning-1.png": "/check-visa-expiry-limit/static/media/warning-1.83c8c718efce27324df7.png",
     "static/media/warning.png": "/check-visa-expiry-limit/static/media/warning.b1d3c5484a8cbb6991dd.png",
     "index.html": "/check-visa-expiry-limit/index.html",
-    "main.24916a26.css.map": "/check-visa-expiry-limit/static/css/main.24916a26.css.map",
-    "main.a29e4943.js.map": "/check-visa-expiry-limit/static/js/main.a29e4943.js.map",
+    "main.20fbb441.css.map": "/check-visa-expiry-limit/static/css/main.20fbb441.css.map",
+    "main.7a3f2e4a.js.map": "/check-visa-expiry-limit/static/js/main.7a3f2e4a.js.map",
     "883.5d61e01a.chunk.js.map": "/check-visa-expiry-limit/static/js/883.5d61e01a.chunk.js.map",
     "423.8547a3d3.chunk.css.map": "/check-visa-expiry-limit/static/css/423.8547a3d3.chunk.css.map",
     "423.27e0185c.chunk.js.map": "/check-visa-expiry-limit/static/js/423.27e0185c.chunk.js.map",
     "609.4d572835.chunk.js.map": "/check-visa-expiry-limit/static/js/609.4d572835.chunk.js.map",
     "407.227be215.chunk.js.map": "/check-visa-expiry-limit/static/js/407.227be215.chunk.js.map",
     "83.487eb5a6.chunk.js.map": "/check-visa-expiry-limit/static/js/83.487eb5a6.chunk.js.map",
-    "550.17de9cf1.chunk.js.map": "/check-visa-expiry-limit/static/js/550.17de9cf1.chunk.js.map",
+    "550.3910ab57.chunk.js.map": "/check-visa-expiry-limit/static/js/550.3910ab57.chunk.js.map",
     "24.d41543f5.chunk.js.map": "/check-visa-expiry-limit/static/js/24.d41543f5.chunk.js.map",
     "496.02cab9e7.chunk.js.map": "/check-visa-expiry-limit/static/js/496.02cab9e7.chunk.js.map",
     "479.a9b203f3.chunk.js.map": "/check-visa-expiry-limit/static/js/479.a9b203f3.chunk.js.map",
@@ -42,7 +42,7 @@
     "406.c851bf08.chunk.js.map": "/check-visa-expiry-limit/static/js/406.c851bf08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24916a26.css",
-    "static/js/main.a29e4943.js"
+    "static/css/main.20fbb441.css",
+    "static/js/main.7a3f2e4a.js"
   ]
 }
